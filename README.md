@@ -1,13 +1,13 @@
 # Lucas Biason
 
-Local: Santo André - São Paulo | Idade: 27 anos
+Local: Santo André - São Paulo | Idade: 28 anos
 
 Sou desenvolvedor web, gosto de estudar sobre tecnologias e aprender coisas novas. 
 Me preocupo com qualidade de software e usabilidade, tendo sempre um foco na qualidade de código. 
 Nas horas vagas gosto de procurar tecnologias, escutar música e jogar.
 Sou programador com foco em Python e Django, mas gosto de programar com outras tecnologias também.
 
-Atualmente trabalho na [Leme Consultoria](http://www.lemeconsultoria.com.br/ "Link") 
+Atualmente trabalho na [ITMSS](http://www.itmss.com.br/ "Link") 
 
 E-mail: biasonlucky@hotmail.com 
 
@@ -48,7 +48,7 @@ E-mail: biasonlucky@hotmail.com
 
 ## Experiência 
 
-* **Tour House - Viagens e Turismo Ltda**
+* **ITM Tecnologia**
 
    Função Inicial: Desenvolvedor Python 
    
