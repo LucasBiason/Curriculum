@@ -19,9 +19,7 @@ E-mail: biasonlucky@hotmail.com
 * Bootstrap
 * Javascript, JQuery
 * NodeJs
-* AngularJs
-* Java, JSP, Servlets, iReport
-* Banco de Dados (Postgresql, Oracle PL/SQL)
+* Banco de Dados (Postgresql)
 * Sistemas de controle de versão (GIT)
 * Desenvolvimento Ágil (Scrum)
 * Inglês Intermediário, leitura e escrita.
@@ -45,6 +43,7 @@ E-mail: biasonlucky@hotmail.com
 * AngularJS para WebApps RESTful (20 horas) - Caelum
 * Design Patterns Python I (16 horas) - Alura (Online)
 * Design Patterns Python II (16 horas) - Alura (Online)
+* Build a Backend REST API with Python & Django - Advanced (8 horas) - Udemy (Online)
 
 ## Experiência 
 
