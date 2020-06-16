@@ -43,6 +43,7 @@ E-mail: biasonlucky@hotmail.com
 * AngularJS para WebApps RESTful (20 horas) - Caelum
 * Design Patterns Python I (16 horas) - Alura (Online)
 * Design Patterns Python II (16 horas) - Alura (Online)
+* Python Programming for SysAdmins (40 horas) - 4Linux
 * Build a Backend REST API with Python & Django - Advanced (8 horas) - Udemy (Online)
 
 ## Experiência 
@@ -54,6 +55,8 @@ E-mail: biasonlucky@hotmail.com
    Função Atual: Desenvolvedor Python 
    
    Contratação em 20 de Dezembro de 2018. 
+   
+   Experiência: Experiência: desenvolvimento de novas funcionalidades e melhorias para o sistema de Gestão e Controle de Eventos e o serviço de buscas e reservas de passagens aéreas, hotéis e carros utilizado em todas os sistemas de e-commerce e corporativos da empresa.
 
 * **Leme Consultoria em Gestão de RH LTDA**
 
