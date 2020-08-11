@@ -1,6 +1,6 @@
 # Lucas Biason
 
-Local: Santo André - São Paulo | Idade: 28 anos
+Local: Santo André - São Paulo | Idade: 29 anos
 
 Sou desenvolvedor web, gosto de estudar sobre tecnologias e aprender coisas novas. 
 Me preocupo com qualidade de software e usabilidade, tendo sempre um foco na qualidade de código. 
@@ -15,6 +15,7 @@ E-mail: biasonlucky@hotmail.com
 
 * Python (Desde de 2013)
 * Django (Desde de 2013)
+* Flask (Desde de 2019)
 * HTML e CSS 
 * Bootstrap
 * Javascript, JQuery
@@ -24,6 +25,8 @@ E-mail: biasonlucky@hotmail.com
 * Desenvolvimento Ágil (Scrum)
 * Inglês Intermediário, leitura e escrita.
 * Linux
+* Docker
+* TDD
 
 ## Formação
 
@@ -48,13 +51,23 @@ E-mail: biasonlucky@hotmail.com
 
 ## Experiência 
 
-* **ITM Tecnologia**
+* **Fundação para o Desenvolvimento da Engenharia**
 
    Função Inicial: Desenvolvedor Python 
    
    Função Atual: Desenvolvedor Python 
    
-   Contratação em 20 de Dezembro de 2018. 
+   Contratação em 09 de Julho de 2020. 
+   
+   Experiência: Experiência: desenvolvimento de novas funcionalidades e melhorias para os microservicos da Lendico Emprestimos Online.
+
+* **ITM Tecnologia**
+
+   Função Inicial: Desenvolvedor Python 
+   
+   Função Final: Desenvolvedor Python 
+   
+   De 20 de Dezembro de 2018 a 30 de Junho de 2020
    
    Experiência: Experiência: desenvolvimento de novas funcionalidades e melhorias para o sistema de Gestão e Controle de Eventos e o serviço de buscas e reservas de passagens aéreas, hotéis e carros utilizado em todas os sistemas de e-commerce e corporativos da empresa.
 
