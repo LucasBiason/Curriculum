@@ -69,7 +69,7 @@ E-mail: biasonlucky@hotmail.com
    
    De 20 de Dezembro de 2018 a 30 de Junho de 2020
    
-   Experiência: Experiência: desenvolvimento de novas funcionalidades e melhorias para o sistema de Gestão e Controle de Eventos e o serviço de buscas e reservas de passagens aéreas, hotéis e carros utilizado em todas os sistemas de e-commerce e corporativos da empresa.
+   Experiência: desenvolvimento de novas funcionalidades e melhorias para o sistema de Gestão e Controle de Eventos e o serviço de buscas e reservas de passagens aéreas, hotéis e carros utilizado em todas os sistemas de e-commerce e corporativos da empresa.
 
 * **Leme Consultoria em Gestão de RH LTDA**
 
