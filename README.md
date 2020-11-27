@@ -51,7 +51,7 @@ E-mail: biasonlucky@hotmail.com
 
 ## Experiência 
 
-* **Fundação para o Desenvolvimento da Engenharia**
+* **FDTE - Fundação para o Desenvolvimento Tecnológico da Engenharia**
 
    Função Inicial: Desenvolvedor Python 
    
@@ -59,7 +59,7 @@ E-mail: biasonlucky@hotmail.com
    
    Contratação em 09 de Julho de 2020. 
    
-   Experiência: Experiência: desenvolvimento de novas funcionalidades e melhorias para os microservicos da Lendico Emprestimos Online.
+   Experiência: desenvolvimento de novas funcionalidades e melhorias para os servicos da Lendico Emprestimos Online.
 
 * **ITM Tecnologia**
 
