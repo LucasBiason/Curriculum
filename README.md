@@ -13,8 +13,8 @@ E-mail: biasonlucky@hotmail.com
 
 ## Conhecimentos
 
-* Python (Desde de 2013)
-* Django (Desde de 2013)
+* Python (Desde de 2012)
+* Django (Desde de 2012)
 * Flask (Desde de 2019)
 * HTML e CSS 
 * Bootstrap
