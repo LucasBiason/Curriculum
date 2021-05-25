@@ -1,31 +1,32 @@
 # Lucas Biason
 
-Local: Santo André - São Paulo | Idade: 27 anos
+Local: Santo André - São Paulo | Idade: 29 anos
 
 Sou desenvolvedor web, gosto de estudar sobre tecnologias e aprender coisas novas. 
 Me preocupo com qualidade de software e usabilidade, tendo sempre um foco na qualidade de código. 
 Nas horas vagas gosto de procurar tecnologias, escutar música e jogar.
 Sou programador com foco em Python e Django, mas gosto de programar com outras tecnologias também.
 
-Atualmente trabalho na [Leme Consultoria](http://www.lemeconsultoria.com.br/ "Link") 
+Atualmente trabalho na [ITMSS](http://www.itmss.com.br/ "Link") 
 
 E-mail: biasonlucky@hotmail.com 
 
 ## Conhecimentos
 
-* Python (Desde de 2013)
-* Django (Desde de 2013)
+* Python (Desde de 2012)
+* Django (Desde de 2012)
+* Flask (Desde de 2019)
 * HTML e CSS 
 * Bootstrap
 * Javascript, JQuery
 * NodeJs
-* AngularJs
-* Java, JSP, Servlets, iReport
-* Banco de Dados (Postgresql, Oracle PL/SQL)
+* Banco de Dados (Postgresql)
 * Sistemas de controle de versão (GIT)
 * Desenvolvimento Ágil (Scrum)
 * Inglês Intermediário, leitura e escrita.
 * Linux
+* Docker
+* TDD
 
 ## Formação
 
@@ -45,16 +46,30 @@ E-mail: biasonlucky@hotmail.com
 * AngularJS para WebApps RESTful (20 horas) - Caelum
 * Design Patterns Python I (16 horas) - Alura (Online)
 * Design Patterns Python II (16 horas) - Alura (Online)
+* Python Programming for SysAdmins (40 horas) - 4Linux
+* Build a Backend REST API with Python & Django - Advanced (8 horas) - Udemy (Online)
 
 ## Experiência 
 
-* **Tour House - Viagens e Turismo Ltda**
+* **FDTE - Fundação para o Desenvolvimento Tecnológico da Engenharia**
 
    Função Inicial: Desenvolvedor Python 
    
    Função Atual: Desenvolvedor Python 
    
-   Contratação em 20 de Dezembro de 2018. 
+   Contratação em 09 de Julho de 2020. 
+   
+   Experiência: desenvolvimento de novas funcionalidades e melhorias para os servicos da Lendico Emprestimos Online.
+
+* **ITM Tecnologia**
+
+   Função Inicial: Desenvolvedor Python 
+   
+   Função Final: Desenvolvedor Python 
+   
+   De 20 de Dezembro de 2018 a 30 de Junho de 2020
+   
+   Experiência: desenvolvimento de novas funcionalidades e melhorias para o sistema de Gestão e Controle de Eventos e o serviço de buscas e reservas de passagens aéreas, hotéis e carros utilizado em todas os sistemas de e-commerce e corporativos da empresa.
 
 * **Leme Consultoria em Gestão de RH LTDA**
 
