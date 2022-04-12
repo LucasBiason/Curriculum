@@ -1,6 +1,6 @@
 # Lucas Biason
 
-Local: Santo André - São Paulo | Idade: 29 anos
+Local: Santo André - São Paulo | Idade: 30 anos
 
 Sou desenvolvedor web, gosto de estudar sobre tecnologias e aprender coisas novas. 
 Me preocupo com qualidade de software e usabilidade, tendo sempre um foco na qualidade de código. 
@@ -59,7 +59,7 @@ E-mail: biasonlucky@hotmail.com
    
    Contratação em 09 de Julho de 2020. 
    
-   Experiência: desenvolvimento de novas funcionalidades e melhorias para os servicos da Lendico Emprestimos Online.
+   Experiência: desenvolvimento de novas funcionalidades e melhorias para os servicos da Provu Emprestimos Online.
 
 * **ITM Tecnologia**
 
