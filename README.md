@@ -59,7 +59,11 @@ E-mail: biasonlucky@hotmail.com
    
    Contratação em 09 de Julho de 2020. 
    
-   Experiência: desenvolvimento de novas funcionalidades e melhorias para os servicos da Provu Emprestimos Online.
+   Experiência: desenvolvimento de novas funcionalidades e melhorias para clientes da FDTE
+
+   * Provu Emprestimos Online
+   
+   * Yara (Digital Farming)
 
 * **ITM Tecnologia**
 
