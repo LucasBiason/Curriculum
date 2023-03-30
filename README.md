@@ -7,9 +7,7 @@ Me preocupo com qualidade de software e usabilidade, tendo sempre um foco na qua
 Nas horas vagas gosto de procurar tecnologias, escutar música e jogar.
 Sou programador com foco em Python e Django, mas gosto de programar com outras tecnologias também.
 
-Atualmente trabalho na [ITMSS](http://www.itmss.com.br/ "Link") 
-
-E-mail: biasonlucky@hotmail.com 
+E-mail: lucas.biason@foxcodesoftware.com
 
 ## Conhecimentos
 
@@ -18,12 +16,12 @@ E-mail: biasonlucky@hotmail.com
 * Flask (Desde de 2019)
 * HTML e CSS 
 * Bootstrap
-* Javascript, JQuery
+* Javascript
 * NodeJs
 * Banco de Dados (Postgresql)
 * Sistemas de controle de versão (GIT)
 * Desenvolvimento Ágil (Scrum)
-* Inglês Intermediário, leitura e escrita.
+* Inglês Intermediário.
 * Linux
 * Docker
 * TDD
@@ -59,7 +57,11 @@ E-mail: biasonlucky@hotmail.com
    
    Contratação em 09 de Julho de 2020. 
    
-   Experiência: desenvolvimento de novas funcionalidades e melhorias para os servicos da Provu Emprestimos Online.
+   Experiência: desenvolvimento de novas funcionalidades e melhorias para clientes da FDTE
+
+   * Provu Emprestimos Online
+   
+   * Yara (Digital Farming)
 
 * **ITM Tecnologia**
 
