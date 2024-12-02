@@ -1,6 +1,6 @@
 # Lucas Biason
 
-Local: Santo André - São Paulo | Idade: 30 anos
+Local: Santo André - São Paulo | Idade: 33 anos
 
 Sou desenvolvedor web, gosto de estudar sobre tecnologias e aprender coisas novas. 
 Me preocupo com qualidade de software e usabilidade, tendo sempre um foco na qualidade de código. 
@@ -14,9 +14,7 @@ E-mail: lucas.biason@foxcodesoftware.com
 * Python (Desde de 2012)
 * Django (Desde de 2012)
 * Flask (Desde de 2019)
-* HTML e CSS 
-* Bootstrap
-* Javascript
+* HTML, CSS, Javascript
 * NodeJs
 * Banco de Dados (Postgresql)
 * Sistemas de controle de versão (GIT)
@@ -49,19 +47,29 @@ E-mail: lucas.biason@foxcodesoftware.com
 
 ## Experiência 
 
+* **Voetur Turismo**
+
+   Função Inicial: Desenvolvedor de Sistemas Senior
+   
+   Função Atual: Desenvolvedor de Sistemas Senior
+   
+   Contratação em 30 de Julho de 2023. 
+   
+   Experiência: desenvolvimento de automações de processos e coleta de dados para análise de dados e processos operacionais.
+  
 * **FDTE - Fundação para o Desenvolvimento Tecnológico da Engenharia**
 
    Função Inicial: Desenvolvedor Python 
    
-   Função Atual: Desenvolvedor Python 
+   Função Final: Desenvolvedor Python 
    
-   Contratação em 09 de Julho de 2020. 
+   Contratação em 09 de Julho de 2020 a 08 de Maio de 2023
    
    Experiência: desenvolvimento de novas funcionalidades e melhorias para clientes da FDTE
 
    * Provu Emprestimos Online
    
-   * Yara (Digital Farming)
+   * FASTshop
 
 * **ITM Tecnologia**
 
@@ -92,7 +100,4 @@ E-mail: lucas.biason@foxcodesoftware.com
    Manutenção do sistema, criação de novo site, e manutenção dos laboratórios para treinamentos. Criei um sistema de e-mail marketing para auxiliar nas vendas. Por cinco meses atuei na área de vendas e marketing. Ministrei três treinamentos: Lógica para Programação, Java Orientação a Objetos e Java Desenvolvimento WEB. 
 
 
-## Participações em Eventos
-
-* 1º ABCDev - Conferência de Desenvolvimento de Software do Grande ABC ( 17 de Setembro de 2016 - 8 Horas)
 * 3º ABCDev - Conferência de Desenvolvimento de Software do Grande ABC ( 22 de Setembro de 2018 - 10 Horas)
