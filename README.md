@@ -194,6 +194,7 @@ Busco oportunidades para aplicar minha experiência em desenvolvimento Python/Dj
 
 ## 📫 Contato
 
+- **Portfolio:** [lucasbiason.com](https://lucasbiason.com)
 - **Email:** lucas.biason@foxcodesoftware.com
 - **LinkedIn:** [Lucas Biason](https://www.linkedin.com/in/lucas-biason/)
 - **GitHub:** [@LucasBiason](https://github.com/LucasBiason)
